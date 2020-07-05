@@ -8,4 +8,4 @@ A repository collecting ideas for visualization projects.
 - [Makeover Monday](https://www.makeovermonday.co.uk/)
 
 ### Storytelling examples
-- Parable of the polgons (interactive visualization): https://ncase.me/polygons/
+- Parable of the polgons (interactive visualization): https://ncase.me/polygons/ (Would also recommend any other nicky case creations)
