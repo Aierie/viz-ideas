@@ -12,3 +12,5 @@ A repository collecting ideas for visualization projects.
   - I like the interactivity. Letting the user control the visualization makes it much more relatable (MK)
 - A visualization of cafes in Moscow: https://cafe.dianov.org/
   - Nice UI, even though I don't understand the language (MK)
+- People of the pandemic game: https://peopleofthepandemicgame.com/
+  - Merges users' choices with real-world data to tell a story about current issues (MK)
