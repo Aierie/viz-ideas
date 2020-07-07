@@ -24,3 +24,5 @@ A repository collecting ideas for visualization projects.
   D: Each card represents event in Russian history of literature, and also funny thing is that every note has tags, which can forward you to another card.
 The Shape of Cities: https://www.nationalgeographic.com/magazine/2019/04/maps-show-how-public-transit-and-geography-shape-cities/
   D: It's interesting to look how geography of cities was changing.
+
+!!!BTW, how did you make these bullets and formatting? )
