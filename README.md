@@ -44,6 +44,7 @@ A repository collecting ideas for visualization projects.
   - D: It's interesting to look how geography of cities was changing.
 - Death at Home: Visualizing Femicides: https://www.gabriellemerite.com/2019-femicides-in-france/
   - MK: Heavy vis that adds humanity to a topic that can easily become a summary statistic, mixing a nice layout and clear encodings with a mix of personalized touches. She collected the information about each victim by going through social media.
+    - D: Nicely done, but little bit hard to read without annotation on the same screen.
 - Protests in America: http://protests.space/
   - MK: The making of - https://dataanddragons.wordpress.com/2019/12/12/making-points-of-light-protest-in-america/
   - MK: I like this because of the topic, and the thought and analysis that went into such a complex topic.
