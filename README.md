@@ -19,10 +19,8 @@ A repository collecting ideas for visualization projects.
   - Merges users' choices with real-world data to tell a story about current issues (MK)
   D: Very interesting, I like this game mode there and that through this game people can change their minds.
 - Royal Constellations: http://www.datasketch.es/october/code/nadieh/
-  D: I like how it looks like and also coz of it's interactivity.
+  - D: I like how it looks like and also coz of it's interactivity.
 - All Russian literature of the XIX century in 230 cards: https://arzamas.academy/mag/448-literature
-  D: Each card represents event in Russian history of literature, and also funny thing is that every note has tags, which can forward you to another card.
+  - D: Each card represents event in Russian history of literature, and also funny thing is that every note has tags, which can forward you to another card.
 - The Shape of Cities: https://www.nationalgeographic.com/magazine/2019/04/maps-show-how-public-transit-and-geography-shape-cities/
-  D: It's interesting to look how geography of cities was changing.
-
-!!!BTW, how did you make these bullets and formatting? )
+  - D: It's interesting to look how geography of cities was changing.
