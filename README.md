@@ -17,6 +17,7 @@ A repository collecting ideas for visualization projects.
   - DS: https://docs.google.com/spreadsheets/d/1OdddTttI2l47SIgH0VW-q4XfHNJRa6bMbNHL8N4edU8/edit#gid=0
 - World's Biggest Data Breaches & Hacks: https://www.informationisbeautiful.net/visualizations/worlds-biggest-data-breaches-hacks/
   - DS: https://docs.google.com/spreadsheets/d/1i0oIJJMRG-7t1GT-mr4smaTTU7988yXVz8nPlwaJ8Xk/edit#gid=2
+  - MK: Nice, reminds me of this: https://info.graphics/stories/heatscore-password-patterns
 - How the nation’s growing racial diversity is changing our schools: https://www.washingtonpost.com/graphics/2019/local/school-diversity-data/#methodology
   - DS: https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-09-24
 - Coffee ratings
