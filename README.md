@@ -4,6 +4,8 @@ A repository collecting ideas for visualization projects.
 ## Ideas (with dataset)
 - Invasive species in Australia: https://en.wikipedia.org/wiki/Invasive_species_in_Australia
   - MK: Timeline with interactive vis to see the impact. Nicely organized data with clear references, interesting topic to me since I've lived in Australia before. A lot of potential for interesting things since it's multi dimensional. Focus would be the [table of invasive species with the biggest impact](https://en.wikipedia.org/wiki/Invasive_species_in_Australia#Animals).
+- You want to reduce the carbon footprint of your food?: https://ourworldindata.org/food-choice-vs-eating-local, dataset: https://ourworldindata.org/uploads/2020/02/GHG-emissions-by-life-cycle-stage-OurWorldinData-upload.csv
+  - DS: I've already found almost the same theme before, but this one looks not so huge and complex and also I like the thing that data here devided to the parts of supply chain.
 
 ## Resources
 ### Datasets
