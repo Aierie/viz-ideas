@@ -1,6 +1,10 @@
 ## What is this?
 A repository collecting ideas for visualization projects.
 
+## Ideas (with dataset)
+- Invasive species in Australia: https://en.wikipedia.org/wiki/Invasive_species_in_Australia
+  - MK: Timeline with interactive vis to see the impact. Nicely organized data with clear references, interesting topic to me since I've lived in Australia before. A lot of potential for interesting things since it's multi dimensional. Focus would be the [table of invasive species with the biggest impact](https://en.wikipedia.org/wiki/Invasive_species_in_Australia#Animals).
+
 ## Resources
 ### Datasets
 - [kaggle](https://www.kaggle.com/)
