@@ -7,6 +7,7 @@ A repository collecting ideas for visualization projects.
 - You want to reduce the carbon footprint of your food?: https://ourworldindata.org/food-choice-vs-eating-local, dataset: https://ourworldindata.org/uploads/2020/02/GHG-emissions-by-life-cycle-stage-OurWorldinData-upload.csv
   - DS: I've already found almost the same theme before, but this one looks not so huge and complex and also I like the thing that data here devided to the parts of supply chain.
 - Categorizing cocktails by type of alcohol: https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-05-26/readme.md
+  - DS: It's a cool topic, but since I now want to minimize the amount of alcohol in my life, this is not a best one for me nowadays )))
 
 ## Resources
 ### Datasets
