@@ -8,6 +8,9 @@ A repository collecting ideas for visualization projects.
   - DS: I've already found almost the same theme before, but this one looks not so huge and complex and also I like the thing that data here devided to the parts of supply chain.
 - Categorizing cocktails by type of alcohol: https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-05-26/readme.md
   - DS: It's a cool topic, but since I now want to minimize the amount of alcohol in my life, this is not a best one for me nowadays )))
+  - MK: Ah, fair point! 
+- Visualization of wars USA was involved in: https://en.wikipedia.org/wiki/List_of_wars_involving_the_United_States
+  - MK: Previous work by [Elijah Meeks](http://elijahmeeks.com/wars/) and [Jason Heppler](https://jasonheppler.org/projects/war/)
 
 ## Resources
 ### Datasets
