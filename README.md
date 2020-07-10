@@ -11,6 +11,7 @@ A repository collecting ideas for visualization projects.
   - MK: Ah, fair point! 
 - Visualization of wars USA was involved in: https://en.wikipedia.org/wiki/List_of_wars_involving_the_United_States
   - MK: Previous work by [Elijah Meeks](http://elijahmeeks.com/wars/) and [Jason Heppler](https://jasonheppler.org/projects/war/)
+- Proportion of Urban Population Living in Slums Time Period between 1990 and 2018: https://urban-data-guo-un-habitat.hub.arcgis.com/datasets/proportion-of-urban-population-living-in-slums-time-period-between-1990-and-2018?orderBy=Country_name&page=50
 
 ## Resources
 ### Datasets
